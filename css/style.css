@@ -1,0 +1,22 @@
+html,
+body {
+  background-color: #484576;
+  color: azure;
+  font-family: 'Courier New', Courier, monospace;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+}
+
+#p5-canvas-container {
+  margin: auto;
+  width: 800px;
+}
+
+#p5-canvas-container img {
+  width: 800px;
+}
